@@ -1,10 +1,10 @@
 # Hi there. This is My Hobbies and About Me👋
 ## About me
-**Real Name**: Nizar Ghathfan Zaidan
+**My Real Name**: Nizar Ghathfan Zaidan
 
-**Religion**: Muslim
+**My Status**: Student, Class VIII
 
 ## ID: Hobi Ku, EN: My Hobbies
-**ID**: Aku suka oprek komputer dan koding meskipun saya juga tidak terlalu suka koding untuk sekarang ini. Saya suka sama ilmu komputer.😁😍
+**ID**: Aku suka oprek komputer dan koding meskipun saya juga tidak terlalu jago koding untuk sekarang ini. Saya suka sama ilmu komputer. Dan saya juga ingin mengetahui Cara kerja komputer lebih dalam😁
 
-**EN**: I like tinkering with computers and coding even though I don't really like coding much at the moment. I love computer science. 😁😍
+**EN**: I like tinkering with computers and coding even though I'm not really good at coding right now. I like computer science. And I also want to understand how computers work more deeply 😁
