@@ -2,7 +2,7 @@
 ## About me
 **My Real Name**: Nizar Ghathfan Zaidan
 
-**My Status**: Student, Class VIII
+**My Status**: Student
 
 ## ID: Hobi Ku, EN: My Hobbies
 **ID**: Aku suka oprek komputer dan koding meskipun saya juga tidak terlalu jago koding untuk sekarang ini. Saya suka sama ilmu komputer. Dan saya juga ingin mengetahui Cara kerja komputer lebih dalam😁
