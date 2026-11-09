@@ -5,6 +5,6 @@
 **My Status**: Student
 
 ## ID: Hobi Ku, EN: My Hobbies
-**ID**: Aku suka oprek komputer dan koding meskipun saya juga tidak terlalu jago koding untuk sekarang ini. Saya suka sama ilmu komputer. Dan saya juga ingin mengetahui Cara kerja komputer lebih dalam😁
+**ID**: Saya gemar mengutak-atik komputer, membuat kode, dan memiliki ketertarikan yang kuat terhadap ilmu komputer. Saya juga berharap dapat mempelajari lebih lanjut tentang cara kerja komputer dan, pada suatu saat nanti, mengeksplorasinya dengan cara membongkarnya.
 
-**EN**: I like tinkering with computers and coding even though I'm not really good at coding right now. I like computer science. And I also want to understand how computers work more deeply 😁
+**EN**: I enjoy tinkering with computers, coding, and I have a keen interest in computer science. I also hope to learn more about how computers work and, at some point, explore them by taking them apart.
